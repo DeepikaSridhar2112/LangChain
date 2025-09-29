@@ -1,5 +1,4 @@
 import streamlit as st
-from langchain_community.llms import HuggingFacePipeline
 import os
 from dotenv import load_dotenv, find_dotenv
 from langchain.chat_models import ChatOpenAI
