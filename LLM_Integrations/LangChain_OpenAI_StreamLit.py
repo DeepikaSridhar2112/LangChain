@@ -1,5 +1,4 @@
 import streamlit as st
-from transformers import pipeline
 from langchain_community.llms import HuggingFacePipeline
 import os
 from dotenv import load_dotenv, find_dotenv
