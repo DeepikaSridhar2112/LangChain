@@ -28,3 +28,5 @@ submit = st.button("Click me")
 
 if submit:
     response = generate_response(user_input)
+    st.subheader("Response:")
+    st.write(response,key=1)
