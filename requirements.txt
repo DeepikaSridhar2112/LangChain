@@ -4,3 +4,6 @@ huggingface_hub
 transformers
 torch
 streamlit
+tiktoken
+faiss-cpu
+langchain_community
