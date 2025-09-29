@@ -5,7 +5,7 @@ import streamlit as st
 def generate_response(query):
     st.session_state.sessionMessages.append(HumanMessage(content=query))
     chat = ChatOpenAI(
-        model = "gpt-turbo-3.5-turbo",
+        model = "gpt-3.5-turbo",
         temperature = 0.3
     )
     response = chat(st.session_state.sessionMessages)
