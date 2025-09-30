@@ -7,4 +7,4 @@ streamlit
 tiktoken
 faiss-cpu
 langchain_community
- sentence-transformers
+sentence-transformers
