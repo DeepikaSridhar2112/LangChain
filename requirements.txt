@@ -8,3 +8,5 @@ tiktoken
 faiss-cpu
 langchain_community
 sentence-transformers
+langchain_experimental
+tabulate
