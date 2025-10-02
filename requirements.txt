@@ -10,3 +10,5 @@ langchain_community
 sentence-transformers
 langchain_experimental
 tabulate
+duckduckgo_search
+ddgs
